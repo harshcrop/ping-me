@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+
 """Receive request to show notification"""
 import ast
 import requests
